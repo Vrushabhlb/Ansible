@@ -1,5 +1,7 @@
 # Ansible
 
+Install python3
+
 Install Ansible
 
 amazon-linux-extras install ansible2

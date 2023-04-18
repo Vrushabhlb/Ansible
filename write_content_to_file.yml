@@ -7,7 +7,6 @@
     content: 'Test_Content_Line'
     filepath: '/etc/hello.txt'
   tasks:
-
     - name: "Write content into a file"
       copy:
         dest: "{{ filepath }}"
